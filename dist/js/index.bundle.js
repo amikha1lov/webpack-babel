@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Imported module"),console.log("Тестирование импорта. Импортировали число - ".concat(250)),console.log("Variable x => ".concat(123))})();
